@@ -312,5 +312,5 @@ The model was trained on the Pima Indians Diabetes Dataset, which contains healt
 st.markdown("---")
 st.markdown("Developed for educational purposes | 2025")
 
-pip install streamlit
+
 
