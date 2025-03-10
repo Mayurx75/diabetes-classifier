@@ -77,7 +77,7 @@ This project is licensed under the MIT License. Feel free to use and modify it.
 
 For any queries or collaboration opportunities, feel free to reach out!
 
-- **GitHub**: [Mayur R](https://github.com/Mayurx75)
+- **GitHub**: [Mayurx75](https://github.com/Mayurx75)
 - **LinkedIn**: [Mayur R](https://www.linkedin.com/in/mayur-r-021b35329/)
 - **Email**: mayurff75@gmail.com
 
