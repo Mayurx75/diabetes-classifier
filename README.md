@@ -77,9 +77,9 @@ This project is licensed under the MIT License. Feel free to use and modify it.
 
 For any queries or collaboration opportunities, feel free to reach out!
 
-- **GitHub**: [your-username](https://github.com/your-username)
-- **LinkedIn**: [your-profile](https://linkedin.com/in/your-profile)
-- **Email**: your-email@example.com
+- **GitHub**: [your-username](https://github.com/Mayurx75)
+- **LinkedIn**: [your-profile](https://www.linkedin.com/in/mayur-r-021b35329/)
+- **Email**: mayurff75@gmail.com
 
 ## 🔗 Acknowledgement
 I would like to express my gratitude to **[Dr Victor Agughasi Ikechukwu]** for the guidance and mentorship throughout this project. You can check out their GitHub profile here:  
